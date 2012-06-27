@@ -32,7 +32,7 @@ $(document).ready(function(){<br />
 </ul>
 
 
-**Second step: Add a DIV with an ID of SMOKEKING in your page and start smoking.**
+**Second step: Add a DIV with an ID of OLHFIREREEK in your page and start smoking.**
 
 <ul>
 <code>
