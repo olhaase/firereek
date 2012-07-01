@@ -1,12 +1,16 @@
 @media all{
 
   body{ font-family: "HelveticaNeue-Medium",Helvetica,sans-serif; font-size: 1em; padding: 0; margin:0; color:#fff; background:#000;}
-  p.script{ border:1px dotted #fff; padding:20px; }
   a{color:#fff; font-style:italic; }
-  #page{ position:relative; margin:30px auto 0 auto; width: 600px; }
-  #olhfirereek{ position:absolute; top:20px; left:250px; z-index:1000; overflow:hidden; width:300px; height:400px; }
-  #header{ padding:0; margin:0; text-align:center; height:270px; }
-  #content{ margin:0; padding:0; font-size:1em; color:#fff; background: #000;  }
+  code ul{ padding:0 0 0 01em; margin:0;}
+  code ul li{ list-style-type: none; }
+  #page{ position:relative; margin:30px auto 0 auto; width: 600px; background: url("../images/olhfirereekhands.jpg") no-repeat 0 130px transparent; }
+  #header{ padding:0; margin:0; text-align:center; height:680px; }
+  #content{ margin:0; padding:0; font-size:1em; color:#fff; }
   #footer{ text-align:center; font-size:0.8em; padding:2em 0 2em 0; border-top: 1px solid #fff; }
+  
+  #cigaret{ position:absolute; top:0; left:55px; z-index:1000; width:300px; height:425px; }
+  #match{ position:absolute; top:220px; left:260px; z-index:900; width:200px; height:200px; }
+
 
 }
